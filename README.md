@@ -1,6 +1,6 @@
-# Script used for usual and mundane tasks.
+# Usual Scripts.
 
-Most of the scipts are either in Perl or Python. 
+Scripts used for mundane tasks. 
 
 ## Using these scripts: 
 
